@@ -1,5 +1,5 @@
 # 🌟 SkillVerse 🌟
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## 📑 Table of Contents
 - 💡 Overview
 - 🚀 Features
@@ -7,7 +7,7 @@
 - ⚙️ Installation
 - 🖥️ Usage
 - 🤝 Contributing
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## 💡 Overview
 SkillVerse is a comprehensive platform for students, offering a wide range of features to enhance their skills and knowledge. Whether you're looking to learn, practice coding, or find job opportunities, SkillVerse has you covered!
 
@@ -16,7 +16,7 @@ SkillVerse is a comprehensive platform for students, offering a wide range of fe
 💻 **Coding Platforms**: Practice coding and participate in exciting coding challenges.  
 📊 **Tracking**: Track your progress and stay updated on upcoming events and deadlines.  
 🔔 **Job Notifications**: Get timely alerts about job opportunities and internships.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## 🔧 Getting Started
 Follow these steps to get started with SkillVerse:
 
@@ -32,7 +32,7 @@ npm install
 ```bash
 npm start
 ```
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## ⚙️ Installation
 To install the application, follow these steps:
 
@@ -43,7 +43,7 @@ Download and install Node.js and npm from the official website.
 ```bash
 npm install
 ```
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## 🖥️ Usage
 To use the application, follow these steps:
 
@@ -66,7 +66,7 @@ Make changes to the code, add new features, or fix bugs.
 **Step 3️⃣**: Submit a Pull Request  
 Submit a pull request to the original repository and we'll review it!
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 # SkillVerse Backend
 
 ## 🌟 Overview
@@ -83,7 +83,7 @@ This is the backend service for SkillVerse, a comprehensive platform aimed at en
 ### Prerequisites
 - Node.js and npm
 - Python 3.x (for scraping scripts)
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ### 📥 Installation
 1. Clone the repository:
     ```bash
@@ -98,7 +98,7 @@ This is the backend service for SkillVerse, a comprehensive platform aimed at en
     npm install
     ```
 4. Make sure Python 3.x is installed and accessible via command line.
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## 🏃‍♂️ Usage
 1. Start the backend server:
     ```bash
@@ -113,7 +113,7 @@ This is the backend service for SkillVerse, a comprehensive platform aimed at en
      ```
      GET http://localhost:9002/skill2040/coding/GFG
      ```
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 ## 🔧 Endpoints
 - **/skill2040/coding/leetcode**: Executes a Python script to fetch and return LeetCode data as JSON.
 - **/skill2040/coding/GFG**: Executes a Python script to fetch and return GeeksforGeeks stats as JSON.
